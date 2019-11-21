@@ -3561,6 +3561,7 @@ ul.blog-comments li p {
     display: table;
     height: 550px;
     width: 80%;
+    width: 65%;
     text-align: center;
 }
 
@@ -3568,7 +3569,7 @@ ul.blog-comments li p {
     position: relative;
     display: table-cell;
     vertical-align: middle;
-    left: 10%;
+    left: 20%;
     
     z-index: 200;
 
